@@ -19,7 +19,7 @@ Projeto desenvolvido no curso HTML5 e CSS3 do CursoemVideo. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto android" src=".github/Capa.jpg" width="100%">
+  <img alt="projeto android" src="Capa.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
