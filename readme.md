@@ -39,8 +39,8 @@ O Projeto Android é uma página contando a história do desenvolvimento do masc
 
 ## 📖 Aprendizado
 
-- No CSS3: Características aplicadas no tipo, classes, variavéis, seletores e modelos de caixas.
-- No HTM5: Listas, criação de wireframe, tipos, modulação de imagens e vídeos, reponsividade em diversas telas (desktop e mobile).
+- No CSS3: Características aplicadas no tipo, classes, váriaveis, seletores e modelos de caixas.
+- No HTM5: Listas, criação de wireframe, tipos, modulação de imagens e vídeos, responsividade em diversas telas (desktop e mobile).
 
 ## :memo: Licença
 
